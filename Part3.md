@@ -8,7 +8,7 @@ Within the massive library, J was running as fast as he could and periodically p
 
 "That's more cliche than this memory," J responded as he picked up another book.  He read a page to himself.  *Sunset added.  Perfect beach.  Commit 8f71642.  What the heck?*
 
-Craig backtracked, made a different turn, then ran to cut J's path.  The two collided spectacularly, and the force of it knocked J over.  The watch flew out of his hand and the glass nearly shattered.
+Craig backtracked, made a different turn, then ran to cut J's path.  The two collided spectacularly, and the collision knocked J to the ground with incredible force.  The watch flew out of his hand and the glass nearly shattered.
 
 "That was close," said Craig, as he picked it up.  Everything, books and bookshelves, ceiling and all, suddenly went to paper white.  All that remained was those two, in the infinite empty canvas, like a blank sheet of paper that stretched endlessly before them.
 
@@ -17,6 +17,7 @@ Craig backtracked, made a different turn, then ran to cut J's path.  The two col
 ## Commit features:
 
 * Added confrontation
+* Impelmented violence 
 
 ## Future nice-to-haves
 
@@ -32,7 +33,7 @@ The two of them breathed.  Other than that, there was silence.  J didn't know wh
 
 "All I heard was a voice that pissed me off, and I wanted to murder whoever had it."
 
-"You ever get low?  Really low.  Not low like you're alone, low like you're alone and the one person in the world who said she would always be there for you just put a noose around her neck."
+"You ever get low?  Really low.  Not low like you're alone, low like you're alone *and* the one person in the world who said she would always be there for you just put a noose around her neck."
 
 "Oh my God."
 
@@ -56,4 +57,4 @@ Craig pressed the button again.  "Let's go.  Let's see your most cherished memor
 
 J nonchalantly walked over to him, took the watch out of his hand, and pressed the button.
 
-"Screw this," said J, and pressed the other button.  They were transported back to the estate, back to the previous day, to repeat their first meeting again for the 1000th time.
+"Screw this," said J, and pressed the other button.  They were transported back to the estate, back to the previous day, to repeat their first meeting again for the 1000th time.  Again, for the 1000th time, the two would not remember having met.
